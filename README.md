@@ -8,7 +8,7 @@
 
 To install the component with the Bower, just run:
 
-`bower install --save paper-video`
+`bower install --save papercolorpicker`
 
 
 Example:
