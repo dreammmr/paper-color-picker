@@ -1,0 +1,27 @@
+{
+  "name": "paper-color-picker",
+  "homepage": "http://spacee.xyz/paper-color-picker/demo.html",
+  "authors": [
+    "Arshak Khachatrian <akhxtern@gmail.com>"
+  ],
+  "description": "Polymer 1.0 component for color picking Edit",
+  "main": "paper-video.html",
+  "keywords": [
+    "polymer",
+    "paper",
+    "video",
+    "web-components"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+      "polymer": "Polymer/polymer#^1.4.0",
+      "paper-input": "PolymerElements/paper-input#^1.1.15"
+  }
+}
