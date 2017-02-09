@@ -1,7 +1,6 @@
-##&lt;paper-video&gt;
+##&lt;paper-color-picker&gt;
 
-`paper-video` is a material design styled video player. It contains a video placed in the top and
-controls in the bottom. User can fully customize the controllers and the events.
+`paper-color-picker` is a Polymer 1.0 form element for the color picker. It opens a default system color picker and immediately updates his own value when the value is changing. It has a small bar in the bottom of it, which is showing you the current color you've selected.
 
 [Live Example](http://spacee.xyz/polymer-components/paper-color-picker/demo.html)
 
